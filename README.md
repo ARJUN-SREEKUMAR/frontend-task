@@ -1,4 +1,3 @@
-Here's the README content formatted as a Markdown snippet for inclusion in a `.md` file:
 
 ```markdown
 # Next.js Project
